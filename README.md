@@ -12,7 +12,7 @@
 
 ### App Walkthrough GIF
 
-<img src="https://github.com/sprrp/FlexFiinal-complete-/blob/main/Flex%20Final.gif" width=250><br>
+<img src="https://github.com/sprrp/FlexFiinal-complete-/blob/main/Full%20Final%20Flex.gif" width=250><br>
 
 ### Notes
 Describe any challenges encountered while building the app.
